@@ -1,0 +1,7 @@
+---
+mysql_root_password: "balu"
+app_user: "sa"
+http_host: "lcasillas.com"
+http_conf: "lcasillas.com.conf"
+http_port: "80"
+disable_default: true
